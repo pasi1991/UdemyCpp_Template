@@ -96,6 +96,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+*Debug
 
 # Files built by Visual Studio
 *_i.c
